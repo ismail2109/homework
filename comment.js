@@ -1,8 +1,6 @@
 // Массив из 10 комментариев пользователей
   export const comments = [
     {
-     
-    
         postId: 1,
         id: 1,
         name: "id labore ex et quam laborum",
