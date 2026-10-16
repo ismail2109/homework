@@ -54,3 +54,4 @@ const productsToShow = products.slice(0, cardsCount);
 
 // Отображаем карточки на странице.
 renderCards(productsToShow);
+// Обновление для проверки домашнего задания № 10
